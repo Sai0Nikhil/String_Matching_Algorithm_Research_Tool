@@ -7,12 +7,12 @@
 #0 #aoso6 
 #0 #askip 
 #0 #aut 
-#0 #bf 
+#1 #bf 
 #0 #bfs 
 #0 #blim 
 #0 #bm 
 #0 #bmh-sbndm 
-#0 #bndm 
+#1 #bndm 
 #0 #bndml 
 #0 #bndmq2 
 #0 #bndmq4 
@@ -37,6 +37,9 @@
 #0 #bxs6 
 #0 #bxs8 
 #0 #col 
+#1 #cosinescreen 
+#1 #cosinescreendq 
+#1 #cosinescreendqlin 
 #0 #dbww 
 #0 #dbww2 
 #0 #dfdm 
@@ -87,9 +90,9 @@
 #0 #iom 
 #0 #jom 
 #0 #kbndm 
-#0 #kmp 
+#1 #kmp 
 #0 #kmpskip 
-#0 #kr 
+#1 #kr 
 #0 #ksa 
 #0 #lbndm 
 #0 #ldm 
@@ -130,7 +133,7 @@
 #0 #sbndm-w2 
 #0 #sbndm-w4 
 #0 #sbndm-w6 
-#1 #sbndm2 
+#0 #sbndm2 
 #0 #sbndmq2 
 #0 #sbndmq4 
 #0 #sbndmq6 

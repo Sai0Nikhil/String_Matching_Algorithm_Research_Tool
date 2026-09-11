@@ -1,0 +1,34 @@
+# Compiled binaries (recompile from source instead)
+source/bin/*
+!source/bin/.gitignore
+
+# Build artifacts
+smart
+select
+show
+test
+textgen
+compilesm
+
+# Cachegrind output
+cachegrind.out.*
+
+# Experiment results (regenerate by re-running)
+results/
+old_broken_logs/
+
+# Debug/timing logs
+dq_debug.log
+dq_full_timings.txt
+dq_timings.txt
+run_output.txt
+
+# Backup files
+data/genome/ecoli_FULL_BACKUP.txt
+
+# Downloaded installers
+hyperfine_1.18.0_amd64.deb
+
+# Scaling test data (large, regeneratable)
+data/genome_scaling/
+data/rand*/
